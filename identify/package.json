@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "async": "^2.6.3",
-    "aws-sdk": "^2.543.0",
+    "aws-sdk": "^2.814.0",
     "bluebird": "^3.7.0",
     "co": "^4.6.0",
     "debug": "^2.2.0",
